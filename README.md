@@ -1,7 +1,7 @@
 # Info
 
-Apellido/s : Monzón
+Surname(s): Monzon
 
-Nombre/s : Valentín Jeremias Daniel
+Name(s): Valentin Jeremias Daniel
 
-18 años. Estudiante en EEST N°7 "Impa". Planeando estudiar Ingenieria Industrial en la UTN FRA.
+ 18 years. Student at EEST N°7 "Impa".  Planning to study Industrial Engineering at UTN FRA.
